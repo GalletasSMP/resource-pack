@@ -1,0 +1,12 @@
+Vanilla Tweaks Resource Pack
+Version: 1.21
+Packs:
+	HungerBarsCookie
+	LowerFire
+	LowerShield
+	3DSunMoon
+	ConcreteCyanBG
+	WitherHearts
+	PingColorIndicator
+	RainbowExperience
+	UniqueDyes

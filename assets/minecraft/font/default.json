@@ -1,0 +1,135 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "galletassmp:title.png",
+            "height": 256,
+            "ascent": 15,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:title.png",
+            "height": 100,
+            "ascent": 15,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:coin.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "Ǥ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:icons/water-drop.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:icons/heart.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/mod.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/mvpplus.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/booster.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/mvp.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/vipplus.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/vip.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/usuario.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/admin.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "galletassmp:ranks/owner.png",
+            "height": 10,
+            "ascent": 8,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        { "type": "bitmap",
+        "file": "minecraft:font/enderdragon.png",
+        "ascent": 13, "height": 42,
+        "chars": ["\uE907"]
+        }
+    ]
+}
