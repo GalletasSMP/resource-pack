@@ -1,0 +1,22 @@
+# Normalizar saltos de línea: convertir a LF en todos los sistemas
+* text=auto eol=lf
+
+# Imágenes como binarios
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tiff binary
+*.ico binary
+*.webp binary
+
+# Audios como binarios
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.flac binary
+*.aac binary
+*.m4a binary
+*.aiff binary
+*.wma binary
